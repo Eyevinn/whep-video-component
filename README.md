@@ -1,5 +1,7 @@
 # <whep-video>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Slack](http://slack.streamingtech.se/badge.svg)](http://slack.streamingtech.se)
+
 A web component for [WHEP](https://eyevinntechnology.medium.com/standardized-webrtc-based-broadcast-streaming-is-being-recognized-by-the-industry-fbc24df54cf4) WebRTC video playback.
 
 ## Example
