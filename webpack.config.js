@@ -7,7 +7,7 @@ module.exports = {
   mode: 'production',
   entry: './src/index.js',
   output: {
-    library: 'whep-video.component',
+    library: 'whepvideo.component',
     libraryExport: 'default',
     libraryTarget: 'umd',
     filename: 'whep-video.component.js',
