@@ -64,6 +64,10 @@ export default class WhepVideoComponent extends HTMLElement {
       this.video.muted = isSet(muted);
     }
   }
+
+  disconnectedCallback() {
+    this.player.destroy();
+  }
 }
 
 customElements.define('whep-video', WhepVideoComponent);
