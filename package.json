@@ -1,6 +1,6 @@
 {
   "name": "@eyevinn/whep-video-component",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "WHEP video web-component",
   "main": "dist/whep-video.component.js",
   "scripts": {
