@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/Eyevinn/whep-video-component#readme",
   "dependencies": {
-    "@eyevinn/webrtc-player": "^0.9.0"
+    "@eyevinn/webrtc-player": "^0.12.0"
   },
   "devDependencies": {
     "html-webpack-plugin": "^5.5.0",
